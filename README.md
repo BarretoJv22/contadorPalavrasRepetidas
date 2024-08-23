@@ -1,4 +1,4 @@
-<body>
+
     <h1>Análise de Palavras Repetidas</h1>
     <p>Este é um programa em JavaScript que analisa arquivos de texto (.txt) e gera um novo arquivo .txt contendo as palavras repetidas encontradas nos parágrafos do arquivo original. O usuário pode especificar o caminho de saída para o arquivo resultante através do terminal.</p>
 
@@ -40,4 +40,3 @@ node index.js caminho/do/arquivo/entrada.txt caminho/para/saida
     <pre><code>
 node index.js ./meus_arquivos/texto.txt ./meus_resultados/
     </code></pre>
-</body>
