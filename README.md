@@ -1,9 +1,3 @@
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Análise de Palavras Repetidas</title>
-</head>
 <body>
     <h1>Análise de Palavras Repetidas</h1>
     <p>Este é um programa em JavaScript que analisa arquivos de texto (.txt) e gera um novo arquivo .txt contendo as palavras repetidas encontradas nos parágrafos do arquivo original. O usuário pode especificar o caminho de saída para o arquivo resultante através do terminal.</p>
@@ -47,4 +41,3 @@ node index.js caminho/do/arquivo/entrada.txt caminho/para/saida
 node index.js ./meus_arquivos/texto.txt ./meus_resultados/
     </code></pre>
 </body>
-</html>
