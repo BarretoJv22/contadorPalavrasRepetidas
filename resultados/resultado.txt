@@ -1,0 +1,41 @@
+palavras duplicadas no parágrafo 3: QUE, VOCÊ, TENHA 
+palavras duplicadas no parágrafo 12: QUE, ESTÃO 
+palavras duplicadas no parágrafo 13: QUE 
+palavras duplicadas no parágrafo 14: KANBAN 
+palavras duplicadas no parágrafo 17: SCRUM, POR, QUADRO, QUE, ALGUNS 
+palavras duplicadas no parágrafo 19: SISTEMA, PARA 
+palavras duplicadas no parágrafo 21: MODELO, KANBAN, PARA, DESENVOLVIMENTO, SOFTWARE, PENSAMENTO, COM, MÉTODO 
+palavras duplicadas no parágrafo 23: ANDERSON, MÉTODO, KANBAN, COM, PALAVRA, “K”, DOS 
+palavras duplicadas no parágrafo 24: KANBAN, COMO, MÉTODO, QUE, FORMA, FRAMEWORK, IMPLEMENTAÇÃO 
+palavras duplicadas no parágrafo 25: UMA, METODOLOGIA, MÉTODO, KANBAN 
+palavras duplicadas no parágrafo 27: KANBAN, QUE, ENTREGA, VALOR 
+palavras duplicadas no parágrafo 28: UMA 
+palavras duplicadas no parágrafo 30: KANBAN, CARACTERÍSTICAS, PARA 
+palavras duplicadas no parágrafo 31: TRABALHO 
+palavras duplicadas no parágrafo 32: TEMPO, PREPARAÇÃO 
+palavras duplicadas no parágrafo 33: LAYOUT, MÁQUINAS, TRABALHO, REDUZIR 
+palavras duplicadas no parágrafo 34: PADRONIZAÇÃO 
+palavras duplicadas no parágrafo 35: POR, KANBAN 
+palavras duplicadas no parágrafo 36: PARA 
+palavras duplicadas no parágrafo 38: KANBAN 
+palavras duplicadas no parágrafo 39: PRODUÇÃO, ETAPAS, QUE, ETAPA 
+palavras duplicadas no parágrafo 40: KANBAN, PARA, PRODUÇÃO, MATERIAL 
+palavras duplicadas no parágrafo 41: KANBAN, PRODUÇÃO 
+palavras duplicadas no parágrafo 43: UMA 
+palavras duplicadas no parágrafo 54: CONTROLE, SISTEMA 
+palavras duplicadas no parágrafo 56: VANTAGENS, KANBAN 
+palavras duplicadas no parágrafo 57: TRABALHO 
+palavras duplicadas no parágrafo 58: DINAMISMO, ENTRE, PESSOAS, TRABALHO, EQUIPE 
+palavras duplicadas no parágrafo 59: AMBIENTE, COLABORAÇÃO, TRABALHO, TODAS 
+palavras duplicadas no parágrafo 60: AUTONOMIA 
+palavras duplicadas no parágrafo 61: FORMA, PROBLEMAS 
+palavras duplicadas no parágrafo 62: TRABALHO, ESFORÇOS, COM 
+palavras duplicadas no parágrafo 63: QUAIS, ESTÃO, QUE, SEJAM 
+palavras duplicadas no parágrafo 64: KANBAN 
+palavras duplicadas no parágrafo 66: MÉTODO, QUE, “COMECE, PELO, VOCÊ 
+palavras duplicadas no parágrafo 68: LEAN 
+palavras duplicadas no parágrafo 69: PENSAMENTO, ÁGIL 
+palavras duplicadas no parágrafo 70: SISTEMA, PUXADO, OPOSIÇÃO, PARA 
+palavras duplicadas no parágrafo 71: SEU, VALOR, PARA 
+palavras duplicadas no parágrafo 74: QUE, PRODUTO, VALOR, DESEJADO, CARRO, POR, DESLOCAMENTO 
+palavras duplicadas no parágrafo 76: QUE, VALOR, DESPERDÍCIO, PARTE 
