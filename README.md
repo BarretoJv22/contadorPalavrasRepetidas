@@ -1,42 +1,31 @@
+<body>
 
-    <h1>Análise de Palavras Repetidas</h1>
-    <p>Este é um programa em JavaScript que analisa arquivos de texto (.txt) e gera um novo arquivo .txt contendo as palavras repetidas encontradas nos parágrafos do arquivo original. O usuário pode especificar o caminho de saída para o arquivo resultante através do terminal.</p>
+  <h1>JavaScript Word Counter</h1>
 
-    <h2>Funcionalidades</h2>
-    <ul>
-        <li>Lê arquivos .txt fornecidos pelo usuário através do terminal.</li>
-        <li>Identifica e lista palavras repetidas em parágrafos do arquivo de entrada.</li>
-        <li>Gera um arquivo .txt contendo o resultado e o salva em um diretório especificado pelo usuário.</li>
-    </ul>
+  <p>
+    Este programa em JavaScript permite que você analise arquivos <code>.txt</code> fornecidos através do terminal e gere um novo arquivo <code>.txt</code> que exibe as palavras repetidas nos parágrafos do arquivo original. O usuário pode especificar a pasta de destino onde o arquivo de saída será salvo.
+  </p>
 
-    <h2>Pré-requisitos</h2>
-    <p>Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:</p>
-    <ul>
-        <li>Node.js</li>
-        <li>NPM (Node Package Manager)</li>
-    </ul>
+  <h2>Recursos</h2>
+  <ul>
+    <li>Analisa arquivos <code>.txt</code> e identifica palavras repetidas.</li>
+    <li>Gera um novo arquivo <code>.txt</code> com as palavras repetidas e a contagem de ocorrências.</li>
+    <li>Permite a especificação de diretório de saída através do terminal.</li>
+  </ul>
 
-    <h2>Instalação</h2>
-    <p>Siga os passos abaixo para instalar o programa:</p>
-    <pre><code>
-# Clone este repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+  <h2>Como Usar</h2>
+  <ol>
+    <li>Certifique-se de ter o Node.js instalado em sua máquina.</li>
+    <li>Clone este repositório:</li>
+    <pre><code>git clone https://github.com/seu-usuario/seu-repositorio.git</code></pre>
+    <li>Navegue até o diretório do projeto:</li>
+    <pre><code>cd seu-repositorio</code></pre>
+    <li>Execute o programa utilizando o comando abaixo, substituindo <code>input.txt</code> pelo caminho do arquivo de entrada e <code>output</code> pelo diretório de saída desejado:</li>
+    <pre><code>node seu-script.js input.txt output</code></pre>
+  </ol>
 
-# Navegue até o diretório do projeto
-cd seu-repositorio
+  <h2>Exemplo</h2>
+  <p>Para analisar o arquivo <code>documento.txt</code> e salvar o resultado no diretório <code>resultados</code>, você pode usar o comando:</p>
+  <pre><code>node seu-script.js documento.txt resultados</code></pre>
 
-# Instale as dependências
-npm install
-    </code></pre>
-
-    <h2>Como Usar</h2>
-    <p>Para usar o programa, execute o comando abaixo no terminal:</p>
-    <pre><code>
-node index.js caminho/do/arquivo/entrada.txt caminho/para/saida
-    </code></pre>
-    <p>Substitua <code>caminho/do/arquivo/entrada.txt</code> pelo caminho do arquivo de entrada e <code>caminho/para/saida</code> pelo diretório onde deseja salvar o arquivo de saída.</p>
-
-    <h3>Exemplo</h3>
-    <pre><code>
-node index.js ./meus_arquivos/texto.txt ./meus_resultados/
-    </code></pre>
+</body>
